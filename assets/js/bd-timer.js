@@ -1,4 +1,4 @@
-var endDate = new Date().getTime() + 3000000;
+var endDate = new Date().getTime() + 3456000000;
 
 var x = setInterval(function() {
 
