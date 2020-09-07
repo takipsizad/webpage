@@ -1,0 +1,1 @@
+window.alert(`we use cookies to improve your experience on this Website`);

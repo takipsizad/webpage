@@ -1,19 +1,22 @@
 {
-  "name": "bd-wizard-free-1",
+  "name": "asterki_website",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Asterki Official Website",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asterki/webpage.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Asterki",
   "license": "ISC",
-  "devDependencies": {
-    "browser-sync": "^2.26.7",
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
-    "gulp-sass": "^4.0.2",
-    "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.13.0"
-  }
+  "bugs": {
+    "url": "https://github.com/Asterki/webpage/issues"
+  },
+  "homepage": "https://github.com/Asterki/webpage#readme"
 }
